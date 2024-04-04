@@ -4,6 +4,7 @@ sidebar_position: 3
 
 # Make Batch Toingg
 
+This is used for  "Toingg" in batches
 
  #### Request type : ```post```
   #### url : ```post```/make_batch_toingg/

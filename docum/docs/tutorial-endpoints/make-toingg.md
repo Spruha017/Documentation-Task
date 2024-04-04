@@ -5,6 +5,9 @@ sidebar_position: 1
 
 # Make Toingg
 
+This endpoint enables users to initiate a process to "Toingg".
+
+
  #### Request type : ```post```
   #### url : ```post```/make_toingg/
 ## Parameters

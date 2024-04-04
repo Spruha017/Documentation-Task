@@ -4,6 +4,7 @@ sidebar_position: 7
 
 # Webhook
 
+ Receive and handle webhook events from Stripe.
 
 
  #### Request type : ```post```

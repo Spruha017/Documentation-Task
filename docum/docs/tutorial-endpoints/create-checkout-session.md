@@ -3,16 +3,13 @@ sidebar_position: 6
 ---
 # Create Checkout Session
 
-
+Initiate a checkout session for processing payments with Stripe.
 
 
  #### Request type : ```post```
   #### url : ```post```/create_checkout_session/
 
 ## Parameters
-
-
-
 
 
 ``` No Parameter ```

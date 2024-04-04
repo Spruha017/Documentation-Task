@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Hang Up Call
 
-
+Allows for hanging up calls.
  #### Request type : ```post```
   #### url : ```post```/hang_up_call/
 

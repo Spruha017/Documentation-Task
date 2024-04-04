@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Introduction
 
 This documentation outlines the APIs available for integrating with our system to facilitate various functionalities such as making calls, sending SMS messages, handling webhooks, and processing payments using Stripe.
@@ -11,7 +14,7 @@ This documentation outlines the APIs available for integrating with our system t
 - POST /create-checkout-session: Initiate a checkout session for processing payments with Stripe.
 - POST /webhook: Receive and handle webhook events from Stripe.
 ## Schemas
-- APIKey: Contains the structure for an API key, which is required for accessing protected endpoints.
+- APIKey : Contains the structure for an API key, which is required for accessing protected endpoints.
 - HTTPValidationError: Represents the error response format for validation errors.
 - ValidationError: Represents detailed validation error information.
 - makeBatchCallData: Structure for data required to initiate batch call processes.

@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Make Toingg Details
 
+
+This endpoint  provide additional details for the "Toingg" process
  #### Request type : ```post```
   #### url : ```post```/make_toingg_details/
 

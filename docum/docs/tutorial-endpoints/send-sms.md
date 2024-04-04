@@ -4,6 +4,7 @@ sidebar_position: 4
 
 # Send SMS
 
+This endpoint  is used to send SMS messages.
 
 
  #### Request type : ```post```
