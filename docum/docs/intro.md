@@ -10,7 +10,7 @@ This documentation outlines the APIs available for integrating with our system t
 - POST /hang_up_call/: Allows for hanging up calls.
 - POST /create-checkout-session: Initiate a checkout session for processing payments with Stripe.
 - POST /webhook: Receive and handle webhook events from Stripe.
-#Schemas
+## Schemas
 - APIKey: Contains the structure for an API key, which is required for accessing protected endpoints.
 - HTTPValidationError: Represents the error response format for validation errors.
 - ValidationError: Represents detailed validation error information.
